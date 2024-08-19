@@ -1,6 +1,11 @@
 # Webpack5
 
+Sample markdown code
+[![Build status](https://ci.appveyor.com/api/projects/status/99g4uappe5ot1x1g?svg=true)](https://ci.appveyor.com/project/Al101010/webpack-and-yarn)
+
+<!-- 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
+
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
 2024.08.19
@@ -13,4 +18,5 @@ yarn build
 yarn show:dist
 
 установил live-server  попал в "devDependencies": 
-yarn add live-server --dev
+yarn add live-server --dev 
+-->
