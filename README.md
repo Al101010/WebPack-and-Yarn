@@ -15,12 +15,15 @@ https://github.com/Al101010/WebPack-and-Yarn
 2024.08.19
 
     скопировал из папки C:\_GitHub_d\env_Yarn_Для ДЗ - Рабочее окружение
+
 yarn install
 
     после окончания установки появилась папка node_modules
+
 yarn build
 
     после окончания сборки появилась папка dist
+
 Для запуска сервера:
 yarn show:dist
 
