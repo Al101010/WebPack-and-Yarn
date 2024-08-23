@@ -30,3 +30,4 @@ yarn show:dist
 установил live-server  попал в "devDependencies": 
 yarn add live-server --dev 
 
+2024.08.23
